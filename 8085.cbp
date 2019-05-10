@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="8085" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/8085" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/8085" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ADD.cpp" />
+		<Unit filename="ADI.cpp" />
+		<Unit filename="CMA.cpp" />
+		<Unit filename="CMP.cpp" />
+		<Unit filename="DAD.cpp" />
+		<Unit filename="DCX.cpp" />
+		<Unit filename="INX.cpp" />
+		<Unit filename="JC.cpp" />
+		<Unit filename="JMP.cpp" />
+		<Unit filename="JNC.cpp" />
+		<Unit filename="JNZ.cpp" />
+		<Unit filename="JZ.cpp" />
+		<Unit filename="LXI.cpp" />
+		<Unit filename="PRINT.cpp" />
+		<Unit filename="SET.cpp" />
+		<Unit filename="STAX.cpp" />
+		<Unit filename="STEP.cpp" />
+		<Unit filename="SUB.cpp" />
+		<Unit filename="SUI.cpp" />
+		<Unit filename="XCHG.cpp" />
+		<Unit filename="arithmetic.h" />
+		<Unit filename="commands.h" />
+		<Unit filename="dcr.cpp" />
+		<Unit filename="debug.h" />
+		<Unit filename="debugger.cpp" />
+		<Unit filename="decToHex.cpp" />
+		<Unit filename="execution.cpp" />
+		<Unit filename="findIndex.cpp" />
+		<Unit filename="flags.cpp" />
+		<Unit filename="hexToDec.cpp" />
+		<Unit filename="inr.cpp" />
+		<Unit filename="lda.cpp" />
+		<Unit filename="lhld.cpp" />
+		<Unit filename="library.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="mov.cpp" />
+		<Unit filename="mvi.cpp" />
+		<Unit filename="programCounter.cpp" />
+		<Unit filename="registerNumber.cpp" />
+		<Unit filename="runProgram.cpp" />
+		<Unit filename="shld.cpp" />
+		<Unit filename="sta.cpp" />
+		<Unit filename="tools.h" />
+		<Unit filename="validAddress.cpp" />
+		<Unit filename="validData.cpp" />
+		<Unit filename="validRegister.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

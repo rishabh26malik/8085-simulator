@@ -1,0 +1,383 @@
+# depslib dependency file v1.0
+1521773323 source:g:\8085\8085\add.cpp
+	"library.h"
+	"tools.h"
+
+1521689819 
+
+1521016394 g:\8085\8085\library.h
+	<iostream>
+	<vector>
+	<cstring>
+	<bits/stdc++.h>
+	<string>
+
+1521688352 g:\8085\8085\tools.h
+
+1521773315 source:g:\8085\8085\adi.cpp
+	"library.h"
+	"tools.h"
+
+1521535596 source:g:\8085\8085\cmp.cpp
+	"library.h"
+	"tools.h"
+
+1521422347 source:g:\8085\8085\dad.cpp
+	"library.h"
+	"tools.h"
+
+1521424081 source:g:\8085\8085\dcr.cpp
+	"library.h"
+	"tools.h"
+
+1521423211 source:g:\8085\8085\dcx.cpp
+	"library.h"
+	"tools.h"
+
+1521288758 source:g:\8085\8085\dectohex.cpp
+	"library.h"
+
+1521421321 "
+
+1521551010 source:g:\8085\8085\execution.cpp
+	"library.h"
+	"tools.h"
+
+1521420225 source:g:\8085\8085\flags.cpp
+	"library.h"
+	"tools.h"
+
+1521337916 source:g:\8085\8085\hextodec.cpp
+	"library.h"
+
+1521561812 source:g:\8085\8085\inr.cpp
+	"library.h"
+	"tools.h"
+
+1521423241 source:g:\8085\8085\inx.cpp
+	"library.h"
+	"tools.h"
+
+1521554006 source:g:\8085\8085\jmp.cpp
+	"library.h"
+	"tools.h"
+
+1521280915 source:g:\8085\8085\lda.cpp
+	"library.h"
+	"tools.h"
+
+1521330253 source:g:\8085\8085\lhld.cpp
+	"library.h"
+	"tools.h"
+
+1521773802 source:g:\8085\8085\lxi.cpp
+	"library.h"
+	"tools.h"
+
+1521988612 source:g:\8085\8085\main.cpp
+	"library.h"
+	"tools.h"
+	"arithmetic.h"
+
+1521415574 c.h"
+
+1521562031 g:\8085\8085\arithmetic.h
+
+1521418526 source:g:\8085\8085\mov.cpp
+	"library.h"
+	"tools.h"
+
+1521773310 source:g:\8085\8085\mvi.cpp
+	"library.h"
+	"tools.h"
+
+1521556473 source:g:\8085\8085\programcounter.cpp
+	"library.h"
+	"tools.h"
+
+1521421513 source:g:\8085\8085\registernumber.cpp
+	"library.h"
+
+1521773961 source:g:\8085\8085\runprogram.cpp
+	"library.h"
+	"commands.h"
+	"arithmetic.h"
+	"jump.h"
+
+1521562563 g:\8085\8085\commands.h
+
+1521415574 source:g:\8085\8085\set.cpp
+	"library.h"
+	"tools.h"
+	"arithmetic.h"
+
+1521555286 source:g:\8085\8085\shld.cpp
+	"library.h"
+	"tools.h"
+
+1521382067 source:g:\8085\8085\sta.cpp
+	"library.h"
+	"tools.h"
+
+1521416690 source:g:\8085\8085\stax.cpp
+	"library.h"
+	"tools.h"
+
+1521587940 source:g:\8085\8085\sub.cpp
+	"library.h"
+	"tools.h"
+
+1521338892 source:g:\8085\8085\sui.cpp
+	"library.h"
+	"tools.h"
+
+1521109140 source:g:\8085\8085\validaddress.cpp
+	"library.h"
+
+1521285296 source:g:\8085\8085\validdata.cpp
+	"library.h"
+
+1521421321 source:g:\8085\8085\validregister.cpp
+	"library.h"
+
+1521276816 source:g:\8085\8085\xchg.cpp
+	"library.h"
+	"tools.h"
+
+1522030985 source:g:\8085\8085\findindex.cpp
+	"library.h"
+	"tools.h"
+
+1521547178 source:g:\8085\8085\jnz.cpp
+	"library.h"
+	"tools.h"
+	"commands.h"
+
+1521562220 h"
+
+1521547315 source:g:\8085\8085\jz.cpp
+	"library.h"
+	"tools.h"
+	"commands.h"
+
+1521562464 source:g:\8085\8085\jc.cpp
+	"library.h"
+	"tools.h"
+	"commands.h"
+
+1521562220 source:g:\8085\8085\jnc.cpp
+	"jump.h"
+	"library.h"
+	"tools.h"
+	"commands.h"
+
+1521561227 source:g:\8085\8085\cma.cpp
+	"library.h"
+	"tools.h"
+
+1521562302 g:\8085\8085\jump.h
+
+1522031495 source:g:\8085\8085\debugger.cpp
+	"library.h"
+	"debug.h"
+	"tools.h"
+
+1521730645 g:\8085\8085\debug.h
+
+1521730584 source:g:\8085\8085\step.cpp
+	"library.h"
+	"debug.h"
+	"tools.h"
+
+1521689819 source:g:\8085\8085\print.cpp
+	"library.h"
+	"debug.h"
+	"tools.h"
+
+1521773315 source:/home/rishabh/C/8085/8085/ADI.cpp
+	"library.h"
+	"tools.h"
+
+1521016394 /home/rishabh/C/8085/8085/library.h
+	<iostream>
+	<vector>
+	<cstring>
+	<bits/stdc++.h>
+	<string>
+
+1521688352 /home/rishabh/C/8085/8085/tools.h
+
+1521561227 source:/home/rishabh/C/8085/8085/CMA.cpp
+	"library.h"
+	"tools.h"
+
+1521535596 source:/home/rishabh/C/8085/8085/CMP.cpp
+	"library.h"
+	"tools.h"
+
+1521422347 source:/home/rishabh/C/8085/8085/DAD.cpp
+	"library.h"
+	"tools.h"
+
+1521423211 source:/home/rishabh/C/8085/8085/DCX.cpp
+	"library.h"
+	"tools.h"
+
+1522031495 source:/home/rishabh/C/8085/8085/debugger.cpp
+	"library.h"
+	"debug.h"
+	"tools.h"
+
+1521730645 /home/rishabh/C/8085/8085/debug.h
+
+1521288758 source:/home/rishabh/C/8085/8085/decToHex.cpp
+	"library.h"
+
+1521551010 source:/home/rishabh/C/8085/8085/execution.cpp
+	"library.h"
+	"tools.h"
+
+1522030985 source:/home/rishabh/C/8085/8085/findIndex.cpp
+	"library.h"
+	"tools.h"
+
+1521420225 source:/home/rishabh/C/8085/8085/flags.cpp
+	"library.h"
+	"tools.h"
+
+1521337916 source:/home/rishabh/C/8085/8085/hexToDec.cpp
+	"library.h"
+
+1521423241 source:/home/rishabh/C/8085/8085/INX.cpp
+	"library.h"
+	"tools.h"
+
+1521562464 source:/home/rishabh/C/8085/8085/JC.cpp
+	"library.h"
+	"tools.h"
+	"commands.h"
+
+1521562563 /home/rishabh/C/8085/8085/commands.h
+
+1521554006 source:/home/rishabh/C/8085/8085/JMP.cpp
+	"library.h"
+	"tools.h"
+
+1521562220 source:/home/rishabh/C/8085/8085/JNC.cpp
+	"jump.h"
+	"library.h"
+	"tools.h"
+	"commands.h"
+
+1521562302 /home/rishabh/C/8085/8085/jump.h
+
+1521547178 source:/home/rishabh/C/8085/8085/JNZ.cpp
+	"library.h"
+	"tools.h"
+	"commands.h"
+
+1521547315 source:/home/rishabh/C/8085/8085/JZ.cpp
+	"library.h"
+	"tools.h"
+	"commands.h"
+
+1521280915 source:/home/rishabh/C/8085/8085/lda.cpp
+	"library.h"
+	"tools.h"
+
+1521330253 source:/home/rishabh/C/8085/8085/lhld.cpp
+	"library.h"
+	"tools.h"
+
+1554211252 source:/home/rishabh/C/8085/8085/main.cpp
+	"library.h"
+	"tools.h"
+	"arithmetic.h"
+
+1521562031 /home/rishabh/C/8085/8085/arithmetic.h
+
+1521418526 source:/home/rishabh/C/8085/8085/mov.cpp
+	"library.h"
+	"tools.h"
+
+1521773310 source:/home/rishabh/C/8085/8085/mvi.cpp
+	"library.h"
+	"tools.h"
+
+1521689819 source:/home/rishabh/C/8085/8085/PRINT.cpp
+	"library.h"
+	"debug.h"
+	"tools.h"
+
+1521556473 source:/home/rishabh/C/8085/8085/programCounter.cpp
+	"library.h"
+	"tools.h"
+
+1521421513 source:/home/rishabh/C/8085/8085/registerNumber.cpp
+	"library.h"
+
+1521773961 source:/home/rishabh/C/8085/8085/runProgram.cpp
+	"library.h"
+	"commands.h"
+	"arithmetic.h"
+	"jump.h"
+
+1521555286 source:/home/rishabh/C/8085/8085/shld.cpp
+	"library.h"
+	"tools.h"
+
+1521382067 source:/home/rishabh/C/8085/8085/sta.cpp
+	"library.h"
+	"tools.h"
+
+1521416690 source:/home/rishabh/C/8085/8085/STAX.cpp
+	"library.h"
+	"tools.h"
+
+1521730584 source:/home/rishabh/C/8085/8085/STEP.cpp
+	"library.h"
+	"debug.h"
+	"tools.h"
+
+1521587940 source:/home/rishabh/C/8085/8085/SUB.cpp
+	"library.h"
+	"tools.h"
+
+1521338892 source:/home/rishabh/C/8085/8085/SUI.cpp
+	"library.h"
+	"tools.h"
+
+1521109140 source:/home/rishabh/C/8085/8085/validAddress.cpp
+	"library.h"
+
+1521285296 source:/home/rishabh/C/8085/8085/validData.cpp
+	"library.h"
+
+1521421321 source:/home/rishabh/C/8085/8085/validRegister.cpp
+	"library.h"
+
+1521276816 source:/home/rishabh/C/8085/8085/XCHG.cpp
+	"library.h"
+	"tools.h"
+
+1521773323 source:/home/rishabh/C/8085/8085/ADD.cpp
+	"library.h"
+	"tools.h"
+
+1521424081 source:/home/rishabh/C/8085/8085/dcr.cpp
+	"library.h"
+	"tools.h"
+
+1521561812 source:/home/rishabh/C/8085/8085/inr.cpp
+	"library.h"
+	"tools.h"
+
+1521773802 source:/home/rishabh/C/8085/8085/LXI.cpp
+	"library.h"
+	"tools.h"
+
+1521415574 source:/home/rishabh/C/8085/8085/SET.cpp
+	"library.h"
+	"tools.h"
+	"arithmetic.h"
+
