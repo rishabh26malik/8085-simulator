@@ -11,4 +11,4 @@ It also contains a debugger with the following commands:
 The emulator is designed using C++. To compile the project files, copy all the files from folder src to the main folder and type command “make” on the terminal.This will compile all the code files and create the object file “setup” which will be used to run the emulator. The emulator works on two modes of input. User can provide the code via input file (.asm) or one could also write it on the terminal. The user can run the whole code at once or he can also run it in the debugger mode. 
 
 All the files of the project are made. You can eithe use an IDE to run the project or create a makefile for it to run it.
-## main.cpp file is the file used to run the project
+### Makefile in main folder is used to run the project
