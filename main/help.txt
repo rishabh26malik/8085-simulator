@@ -1,0 +1,13 @@
+
+1. break or b `line no`:- It will set break point on given line number.
+
+2. run or r :- Run the program until it ends or breakpoint is encountered.
+
+3. step or s :- It will run the program one instruction at a time.
+
+4. print or p:- It prints the value of register or memory location. for ex p A will print the value of
+register A. p x2500 will print the value at memory location x2500 if any.
+
+5. quit or q:- quits the debugger.
+
+6. help:- will show all the commands of debugger.
